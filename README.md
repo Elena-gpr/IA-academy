@@ -1,2 +1,2 @@
 # IA-academy
-Jupyter and notes about IA academy (Feb 2024)
+Jupyters and notes about IA academy (Feb 2024)
